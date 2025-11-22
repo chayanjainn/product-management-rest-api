@@ -93,8 +93,8 @@ productmgmnt/
 4. Run the project (by running the `main` method in `ProductManagementApiApplication.java`)
 5. Verify Installation: Open http://localhost:8080/ in your browser!
 - Application will start on `http://localhost:8080`
-- Swagger UI: `http://localhost:8080/swagger-ui.html`
-- API Docs: `http://localhost:8080/v3/api-docs`
+- Swagger UI: http://localhost:8080/swagger-ui.html
+- API Docs: http://localhost:8080/v3/api-docs
 
 ## ⚙️ Configuration
 
@@ -284,13 +284,21 @@ The following guides illustrate how to use some features concretely:
 ## Preview
 
 ![POSTMAN API](images/PostmanImage1.jpeg)
+
 ![POSTMAN API](images/PostmanImage2.jpeg)
+
 ![POSTMAN API](images/PostmanImage3.jpeg)
+
 ![POSTMAN API](images/PostmanImage4.jpeg)
+
 ![POSTMAN API](images/PostmanImage5.jpeg)
+
 ![POSTMAN API](images/PostmanImage6.jpeg)
+
 ![Swagger UI](images/SwaggerImage1.jpeg)
+
 ![Swagger UI](images/SwaggerImage2.jpeg)
+
 
 
 **Happy Coding! 🎉**
